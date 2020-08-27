@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Linda! 👋 👩🏻‍
 
 <!--
 **lindaktong/lindaktong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+💻 I'm an undergrad at Stanford studying Computer Science. I'm interested in leveraging technology for social impact, especially in the fields of AI ethics, civic tech, and education.
+
+👩🏻‍ I'm passionate about increasing the pipeline of women entering STEM. In high school, I led my school's Girls Who Code chapter, and for the past three years, I have been involved with the #BUILTBYGIRLS Wave mentorship program, which has paired me with software engineers, data scientists, and PMs at Uber, Squarespace, and Handy. This past winter, I helped organize Techtogther 2020, Boston's largest all-female hackathon, and served as a student ambassador for WeCode at Harvard. 
+
+🌎 Find me around the web 
+Tweeting about AI, tech, and how they affect humans @lktong_
+Writing about growing up in transit https://lindatong.substack.com
