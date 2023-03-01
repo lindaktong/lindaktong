@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💻  I'm an undergrad at Stanford studying Computer Science. I'm interested in leveraging technology for social impact, especially in the fields of AI ethics, civic tech, and education.
+💻  I'm an undergrad at Stanford studying Computer Science and Classics. I'm interested in building products that leverage technology for social impact. Previously, I have worked with startups in early stage venture capital (prev investing @ Pear VC and Foothill Ventures, fellow @ 8VC and Floodgate) & did freelance product work at Knewton and Amplify. 
 
-👩🏻‍  I'm passionate about increasing the pipeline of women entering STEM. This past year, I taught coding to middle school girls at Jay Pritzker Academy in Cambodia, helped organize Techtogther 2020, Boston's largest all-female hackathon, and served as a student ambassador for Harvard's WeCode (Women Engineers Code) Conference. 
+👩🏻‍  I'm passionate about increasing the pipeline of women entering STEM. I taught coding to middle school girls at Jay Pritzker Academy in Cambodia, helped organize Techtogther 2020, Boston's largest all-female hackathon, and served as a student ambassador for Harvard's WeCode (Women Engineers Code) Conference. 
 
 🌎  Find me around the web 
 - Tweeting about AI, tech, and how they affect humans @lktong_
