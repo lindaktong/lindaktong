@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💻  I'm an undergrad at Stanford studying Computer Science and Classics. I'm interested in building products that leverage technology for social impact. Previously, I have worked with startups in early stage venture capital (prev investing @ Pear VC and Foothill Ventures, fellow @ 8VC and Floodgate) & did freelance product work at Knewton and Amplify. 
+💻  I'm an undergrad at Stanford studying Computer Science and Classics. I'm interested in building products that leverage technology for social impact. Previously, I have worked in early stage venture capital (prev investing @ Pear VC and Foothill Ventures, fellow @ 8VC and Floodgate) & did freelance product work at Knewton and Amplify. 
 
 👩🏻‍  I'm passionate about increasing the pipeline of women entering STEM. I taught coding to middle school girls at Jay Pritzker Academy in Cambodia, helped organize Techtogther 2020, Boston's largest all-female hackathon, and served as a student ambassador for Harvard's WeCode (Women Engineers Code) Conference. 
 
