@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Linda's Top Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lindaktong&show_icons=true&bg_color=2a2a2a&titleColor=fff&text_color=fff&icon_color=f5dcc4&theme=dark&count_private=true&langs_count=4&layout=default)](https://github.com/lindaktong/lindaktong)
-
 💻  I'm an undergrad at Stanford studying Computer Science and Classics. I'm interested in building products that leverage technology for social impact. Previously, I have worked in early stage venture capital (prev investing @ Pear VC and Foothill Ventures, fellow @ 8VC and Floodgate) & did freelance product work at Knewton and Amplify. 
 
 👩🏻‍  I'm passionate about increasing the pipeline of women entering STEM. I taught coding to middle school girls at Jay Pritzker Academy in Cambodia, helped organize Techtogther 2020, Boston's largest all-female hackathon, and served as a student ambassador for Harvard's WeCode (Women Engineers Code) Conference. 
