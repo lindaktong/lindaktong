@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 💻  I'm an undergrad at Stanford studying Computer Science and Classics.
 
-👩🏻‍  I'm passionate about making education more accessible to learners around the world, especially in STEM. I taught coding to middle school girls at Jay Pritzker Academy in Cambodia, worked at education companies in Vietnam and China, and I am currently a head TA for Code in Place, an online offering of Stanford's introductory CS class with over 22,000 students. I also [teach Python at Stanford](https://cs198.stanford.edu/cs198/Alumni.aspx). 
+👩🏻‍  I'm passionate about making education more accessible to learners around the world, especially in STEM. I taught coding to middle school girls at Jay Pritzker Academy in Cambodia, worked at education companies in Vietnam and China, and I was a head TA for Code in Place, an online offering of Stanford's introductory CS class with over 22,000 students. I also [teach Python at Stanford](https://cs198.stanford.edu/cs198/Alumni.aspx). 
 
 🌎  Find me around the web 
 - Tweeting about tech and how it affects humans @lktong_
