@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💻  I'm an undergrad at Stanford studying Computer Science and Classics. I'm interested in building products that leverage technology for social impact, especially in AI and education. 
+💻  I'm an undergrad at Stanford studying Computer Science and Classics.
 
-👩🏻‍  I'm passionate about making education more accessible to learners around the world, especially in STEM. I taught coding to middle school girls at Jay Pritzker Academy in Cambodia, worked at education companies in Vietnam and China, and I am currently a head TA for Code in Place, an online offering of Stanford's introductory CS class with over 22,000 students.
+👩🏻‍  I'm passionate about making education more accessible to learners around the world, especially in STEM. I taught coding to middle school girls at Jay Pritzker Academy in Cambodia, worked at education companies in Vietnam and China, and I am currently a head TA for Code in Place, an online offering of Stanford's introductory CS class with over 22,000 students. I also teach Python at Stanford. 
 
 🌎  Find me around the web 
-- Tweeting about AI, tech, and how they affect humans @lktong_
-- Writing about growing up in transit https://lindatong.substack.com
+- Tweeting about tech and how it affects humans @lktong_
+- Writing @ https://lindatong.substack.com
